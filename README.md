@@ -1,2 +1,1 @@
-# registration_covid16
-school_project
+Le main est c'est le fichier "projet_final.cpp"
